@@ -1,5 +1,5 @@
 # E-commerce-Funnel-Analysis (User Journey)
-## Behaviour vs. Strict Funnel Analysis
+## Behaviour vs Strict Funnel Analysis
 
 This project analyses **e-commerce user journeys** using two contrasting funnel definitions —  
 **Behaviour Funnel** and **Strict Funnel** — to uncover **category-level purchase behaviour differences**.
@@ -70,6 +70,9 @@ Adherence Ratio = Strict Purchase Rate / behaviour Purchase Rate
 - **Value**:Tailoring conversion metrics to specific category behaviours enables more precise, data-driven marketing strategies.
 
 
+## Dashboard Preview
+
+
 ## Dashboard Key Features
 
 1. Overall E-commerce behaviour Funnel (log scale)
@@ -114,6 +117,6 @@ Adherence Ratio = Strict Purchase Rate / behaviour Purchase Rate
 ├── utils/
 │   ├── utility.py          # category label helpers
 │   └── color_utility.py    # adherence-based color mapping
-├── analysis.py             # main dashboard script
-└── README.md
+├── README.md
+└── analysis.py             # main dashboard script
 ```
